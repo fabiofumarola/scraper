@@ -4,3 +4,9 @@ jupyter
 pandas
 numpy
 requests
+cssselect
+kafka-python
+schedule
+pyhocon
+diskcache
+redis
